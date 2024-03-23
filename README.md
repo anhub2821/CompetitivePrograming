@@ -7,4 +7,4 @@
 - <a href="https://codeforces.com/">codeforces</a>
 - <a href="https://cses.fi/problemset/list/">CSES</a>
 
-## Check this <a href="https://github.com/anhub2821/CompetitivePrograming/blob/main/LIST.md">list</a>
+### Check this <a href="https://github.com/anhub2821/CompetitivePrograming/blob/main/LIST.md">list</a>
