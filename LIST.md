@@ -1,7 +1,9 @@
-- Time complete
+# Time complete
 
-+ 23/03/24:
-[x] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+## + 23/03/24:
+| Done | Link                                                               |
+|-----:|--------------------------------------------------------------------|
+|   x  | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ |
 
 + 22/03/24
 [x] https://leetcode.com/problems/backspace-string-compare/
