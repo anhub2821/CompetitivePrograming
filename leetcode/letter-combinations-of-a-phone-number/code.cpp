@@ -20,7 +20,6 @@ vector<string> letterCombinations(string digits) {
 	for(int i = 0; i < n; i++) vp.push_back(dg[charToInt(digits[i])]);
 	//for(int i = 0; i < n; i++) cout << vp[i] << ' ';
 	for(int i = 0; i < n; i++) {
-		
 	}
 	return vp;
 }
