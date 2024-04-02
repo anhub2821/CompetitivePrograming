@@ -5,17 +5,13 @@ using namespace std;
 
 string kthDistinct(vector<string>& arr, int k) {
 	int n = arr.size();
-	bool ist[n];
-	for(int i = 0; i < n-1; i++)
-	for(int j = i+1; j < n; j++) {
-		if(arr[i].compare(arr[j]) == 0) {
-			ist[i] = true;
-			ist[j] = true;
-		}
+	map<string, int> in;
+	for(int i = 0; i < n; i++){
+		in[arr[i]]++;
 	}
 	int c = 0;
 	for(int i = 0; i < n; i++){
-		if(!ist[i]) c++;
+		if(in[arr[i]] == 1) c++;
 		if(c == k) return arr[i];
 	}
 	return "";
