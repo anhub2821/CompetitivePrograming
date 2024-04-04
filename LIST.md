@@ -1,5 +1,8 @@
 # Time complete
 
+## 04/04/24:
++ https://leetcode.com/problems/smallest-index-with-equal-value
+
 ## 02/04/24:
 + https://leetcode.com/problems/kth-distinct-string-in-an-array
 
@@ -36,5 +39,6 @@
 + https://dmoj.ca/problem/helloworld
 
 ## Yet complete
++ https://oj.vnoi.info/problem/fcb049_closest
 + https://leetcode.com/problems/letter-combinations-of-a-phone-number
 + https://cses.fi/problemset/task/1071
