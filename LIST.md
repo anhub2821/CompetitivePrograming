@@ -1,5 +1,8 @@
 # Time complete
 
+## 05/04/24:
++ https://cses.fi/problemset/task/1071
+
 ## 04/04/24:
 + https://leetcode.com/problems/smallest-index-with-equal-value
 
@@ -39,6 +42,6 @@
 + https://dmoj.ca/problem/helloworld
 
 ## Yet complete
++ https://cses.fi/problemset/task/1072
 + https://oj.vnoi.info/problem/fcb049_closest
 + https://leetcode.com/problems/letter-combinations-of-a-phone-number
-+ https://cses.fi/problemset/task/1071
