@@ -45,5 +45,5 @@ int romanToInt(string s) {
 }
 
 int main() {
-	std::cout << romanToInt("CVIII");
+	std::cout << romanToInt("MCMXCIV");
 }
