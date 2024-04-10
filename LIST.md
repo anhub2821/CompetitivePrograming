@@ -1,5 +1,8 @@
 # Time complete
 
+## 10/04/24:
++ https://leetcode.com/problems/remove-element
+
 ## 05/04/24:
 + https://cses.fi/problemset/task/1071
 
